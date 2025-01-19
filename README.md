@@ -26,13 +26,17 @@ Um simples jogo de adivinhação em Java, onde o sistema escolhe um número alea
 ---
 
 ==== Brincadeira de Adivinhar o Número do Sistema ====
+
 Digite um número (ou 'sair' para encerrar): 50
+
 O número que você informou é MENOR que o do sistema.
 
 Digite um número (ou 'sair' para encerrar): 75
+
 O número que você informou é MAIOR que o do sistema.
 
 Digite um número (ou 'sair' para encerrar): 63
+
 Parabéns, você acertou! O número é: 63
 
 ---
