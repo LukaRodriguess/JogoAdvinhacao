@@ -17,7 +17,7 @@ Um simples jogo de adivinhação em Java, onde o sistema escolhe um número alea
 
 1. Certifique-se de ter o Java instalado na sua máquina (Java 8 ou superior).
 
-2. Baixe o arquivo `JogoAdivinhacao.java`.
+2.  Clone o repositório ou baixe o arquivo `JogoAdvinhacao.java`.
 
 3. Execute o programa:
    ```bash
